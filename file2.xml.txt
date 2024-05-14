@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:00:00Z" agent="5.0 (Macintosh; Intel Mac OS X 11.6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="KIVF7N40EicdGmArIeLv" version="13.11.7" type="google">
+  <diagram name="Page-1" id="qdr1-DSucm1x2J5iTRn">
+    <mxGraphModel dx="924" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="10" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Input Vmax" style="rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="count = 0" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Do" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="count++" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Input Vcar" style="rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Vmax &lt; Vcar?" style="parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="!!!! PORUSHNYK !!!!\nPrint '!!!! PORUSHNYK !!!!'" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Print '------------'" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="true" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Vmax" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Vcar" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="No" style="parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Yes" style="parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="cout &lt;&lt; &apos;V&apos; &lt;&lt; count &lt;&lt; &apos; : &apos;" style="text;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="530" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="false" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="&
