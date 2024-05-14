@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" modified="2021-11-03T09:00:00Z" agent="5.0 (Windows)" etag="XXXXXX">
-<mxGraphModel dx="1302" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="2" value="" style="shape=partialRectangle;top=0;bottom=0;left=0;right=0;" vertex="1" parent="1">
-      <mxGeometry x="20" y="20" width="100" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="3" value="" style="shape=partialRectangle;top=0;bottom=0;left=0;right=0;" vertex="1" parent="1">
-      <mxGeometry x="170" y="20" width="100" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="3">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="5" value="double Vmax, Vcar;\ncout &lt;&lt; &quot;Vmax : &quot;; cin &gt;&gt; Vmax;\nint count = 0;\ndo\n{\n    count++;\n    cout &lt;&lt; &quot;V&quot; &lt;&lt; count &lt;&lt; &quot; : &quot;; cin &gt;&gt; Vcar;\n    if (Vmax &lt; Vcar) cout &lt;&lt; &quot;!!!! PORUSHNYK !!!!&quot; &lt;&lt; endl;\n    cout &lt;&lt; &quot;------------&quot; &lt;&lt; endl;\n} while (true);" style="edgeLabel=1;strokeColor=#000000;strokeWidth=1;html=1;rounded=0;" parent="1" vertex="1">
-      <mxGeometry x="320" y="20" width="100" height="60" as="geometry" />
-    </mxCell>
-  </root>
-</mxGraphModel>
+  <mxGraphModel dx="1302" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <root>
+      <mxCell id="0" />
+      <mxCell id="1" parent="0" />
+      <mxCell id="2" value="" style="shape=partialRectangle;top=0;bottom=0;left=0;right=0;" vertex="1" parent="1">
+        <mxGeometry x="20" y="20" width="100" height="60" as="geometry" />
+      </mxCell>
+      <mxCell id="3" value="" style="shape=partialRectangle;top=0;bottom=0;left=0;right=0;" vertex="1" parent="1">
+        <mxGeometry x="170" y="20" width="100" height="60" as="geometry" />
+      </mxCell>
+      <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="3">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+      <mxCell id="5" value="double Vmax, Vcar;\ncout &lt;&lt; &quot;Vmax : &quot;; cin &gt;&gt; Vmax;\nint count = 0;\ndo\n{\n    count++;\n    cout &lt;&lt; &quot;V&quot; &lt;&lt; count &lt;&lt; &quot; : &quot;; cin &gt;&gt; Vcar;\n    if (Vmax &lt; Vcar) cout &lt;&lt; &quot;!!!! PORUSHNYK !!!!&quot; &lt;&lt; endl;\n    cout &lt;&lt; &quot;------------&quot; &lt;&lt; endl;\n} while (true);" style="edgeLabel=1;strokeColor=#000000;strokeWidth=1;html=1;rounded=0;" parent="1" vertex="1">
+        <mxGeometry x="320" y="20" width="100" height="60" as="geometry" />
+      </mxCell>
+    </root>
+  </mxGraphModel>
 </mxfile>
